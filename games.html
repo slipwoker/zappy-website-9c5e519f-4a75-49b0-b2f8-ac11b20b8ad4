@@ -531,7 +531,7 @@
         // the language instead of dropping back to the site default. NOTE: the
         // \ in the regex is intentional — this block lives in a template
         // literal that bakes the page, so a bare \/ would be dropped.
-        var base = '/products';
+        var base = '/games';
         var activeLang = (function() {
           try { var q = new URLSearchParams(window.location.search).get('lang'); if (q) return q.toLowerCase(); } catch (e) {}
           var m = (window.location.pathname || '').match(/^\/([a-z]{2})(?:\/|$)/i);
