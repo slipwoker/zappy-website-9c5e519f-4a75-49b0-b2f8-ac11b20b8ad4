@@ -7,53 +7,53 @@
 ## Pages
 
 ### דף הבית
-https://-9c5e519f.zappy5.app
+https://example.com
 מחפשים subway surf game? פורטל ההורדות המוביל מרכז עבורכם קישורים עדכניים למשחקים פופולריים. גשו עכשיו והתחילו לשחק תוך שניות!
 
 ### איך זה עובד
-https://-9c5e519f.zappy5.app/how-it-works
+https://example.com/how-it-works
 רוצים לדעת איך להוריד משחקים במהירות? המדריך הקצרצר חושף את השיטה הפשוטה לאיתור קישורים אמינים. כנסו וגלו את הסוד לגיימינג חלק!
 
 ### מדריך בטיחות
-https://-9c5e519f.zappy5.app/safety-guide
+https://example.com/safety-guide
 לפני שאתם מורידים roblox studio download, למדו כיצד להגן על המכשיר. כללי הזהב להורדות נקיות מווירוסים מחכים לכם כאן. היכנסו ובטחו בנו!
 
 ### שאלות נפוצות
-https://-9c5e519f.zappy5.app/faq
+https://example.com/faq
 נתקעתם עם subway surf game? כל התשובות לשאלות הכי נפוצות על הורדות, התקנות ובעיות נפוצות מרוכזות במקום אחד. כנסו וקבלו מענה מיידי!
 
 ### צור קשר
-https://-9c5e519f.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה עם among us download? צוות המומחים שלנו זמין לשאלות, הצעות ובעיות טכניות. השאירו פרטים ונחזור אליכם במהירות הבזק!
 
 ### Products
-https://-9c5e519f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - משחקים/תוכונות להורדה
 
 ### Product Detail
-https://-9c5e519f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - משחקים/תוכונות להורדה
 
 ### Category
-https://-9c5e519f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - משחקים/תוכונות להורדה
 
 ### תודה רבה - פנייתך התקבלה
-https://-9c5e519f.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם. בינתיים אתם מוזמנים ליהנות ממבחר הורדות משחקים כמו משחק סאבווי סרף.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-9c5e519f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-9c5e519f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-9c5e519f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -82,8 +82,8 @@ Gaming Downloads
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-9c5e519f.zappy5.app/sitemap.xml
-- Robots: https://-9c5e519f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-9c5e519f.zappy5.app/llms-full.txt
-- Products (JSON): https://-9c5e519f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-9c5e519f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
