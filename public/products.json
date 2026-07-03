@@ -1,8 +1,29 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-03T15:07:30.952Z",
+  "generated_at": "2026-07-03T15:08:52.014Z",
   "base_url": "https://games-software-download.zappy5.app",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "26926724-89b2-4849-8588-a47eb1f2efa2",
+      "slug": "tvknvt-arykh-prvtsvt-bchynm-njtla4",
+      "name": "תוכנות עריכה פרוצות בחינם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://games-software-download.zappy5.app/product/tvknvt-arykh-prvtsvt-bchynm-njtla4",
+      "categories": [],
+      "updated_at": "2026-07-03T15:08:20.647Z"
+    }
+  ]
 }
